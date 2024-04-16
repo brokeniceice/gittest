@@ -96,4 +96,5 @@ public class SQLQuery {
             throw new RuntimeException(ex);
         }
     }
+
 }
